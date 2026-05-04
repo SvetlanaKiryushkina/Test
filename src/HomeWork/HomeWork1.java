@@ -2,6 +2,6 @@ package HomeWork;
 
 public class HomeWork1 {
     public static void main (String [] args){
-        System.out.println("ФИО Разработчика, 04.05.2016");
+        System.out.println("ФИО, 04.05.2016");
     }
 }
